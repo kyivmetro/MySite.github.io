@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #44944A;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.container {
+    width: 800px;
+    height: 600px;
+    background-color: #806B2A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.rectangle {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name {
+    color: #44944A;
+    font-size: 56px;
+    font-family: "Courier New", Courier, monospace;
+}
+
