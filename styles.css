@@ -9,8 +9,8 @@ body {
 }
 
 .container {
-    width: 800px;
-    height: 600px;
+    width: 500px;
+    height: 300px;
     background-color: #806B2A;
     display: flex;
     justify-content: center;
